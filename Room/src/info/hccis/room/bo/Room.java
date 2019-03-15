@@ -40,9 +40,6 @@ public class Room {
     
     public Room(int roomNumber, int numberOfSeats, boolean reserved, boolean hasSmartBoard) {
         this.roomNumber = roomNumber;
-        this.numberOfSeats = numberOfSeats;
-        this.reserved = reserved;
-        this.hasSmartBoard = hasSmartBoard;
     }
 
     
