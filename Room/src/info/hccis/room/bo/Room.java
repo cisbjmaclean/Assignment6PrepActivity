@@ -130,6 +130,13 @@ public class Room {
 
     }
 
+    /**
+     * This is the toString of the base class.
+     * @return the string
+     * @author KU
+     * @since 20190315
+     */
+    
     public String toString() {
         String output = "\n"
                 + "\nRoom Number: " + roomNumber
