@@ -69,7 +69,7 @@ public class RoomMain {
                 case 6:
                     break;
                 case 7:
-                    System.out.println("Goodbye");
+                    System.out.println("Goodbye!");
                     break;
                 default:
                     System.out.println("Invalid option.");
